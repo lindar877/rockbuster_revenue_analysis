@@ -20,6 +20,6 @@ Tableau
 
 ## Analysis Results
 
-[Rockbuster Stealth Revenue Analysis](LZ Rockbuster Stealth Revenue Analysis.pdf)
+[Rockbuster Stealth Revenue Analysis](https://github.com/lindar877/rockbuster_revenue_analysis/blob/main/LZ%20Rockbuster%20Stealth%20Revenue%20Analysis.pdf)
 
 Rokbuster Stealth Tableau Visualizations
