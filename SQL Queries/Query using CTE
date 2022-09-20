@@ -1,5 +1,5 @@
 
--- Common table expression for obtaining count of films by category name and rating
+-- Use of common table expression for obtaining count of films by category name and rating
 
 WITH category_name_cte (film_id, rating, category_name) AS
   (SELECT A.film_id,
