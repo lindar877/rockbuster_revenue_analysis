@@ -15,9 +15,11 @@ Rockbuster Stealth's relational database is made up of 17 tables containing info
 ## Analysis Tools 
 
 SQL
+
 Tableau 
 
 ## Analysis Results
 
-Rockbuster Stealth Sales Analysis 
+[Rockbuster Stealth Revenue Analysis](LZ Rockbuster Stealth Revenue Analysis.pdf)
+
 Rokbuster Stealth Tableau Visualizations
