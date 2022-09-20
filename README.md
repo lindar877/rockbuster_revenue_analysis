@@ -1,5 +1,6 @@
 ## Rockbuster Revenue Analysis
 
+
 ## Objective 
 
 RockbusterStealth LLC is interested in launching an online movie rental service. The objective of the analysis is to present findings on high grossing regions, customers, and movies that will help lead strategy in launching the online rental service.
