@@ -8,7 +8,7 @@ RockbusterStealth LLC is interested in launching an online movie rental service.
 
 Rockbuster Stealth's relational database is made up of 17 tables containing information on film inventory, customers, and payments. 
 
-[Rockbuster Data Set] (http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+[Rockbuster Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 [Rockbuster Data Dictionary] (rockbuster_revenue_analysis/Rockbuster Stealth Data Dictioary)
 
