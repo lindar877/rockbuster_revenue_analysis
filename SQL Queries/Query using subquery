@@ -1,5 +1,5 @@
 
--- Use of subquery to find out which countries the top 5 customers live in
+-- Use of subquery to find out the total count of customers for countries where the top 5 customers live.
 
 SELECT  A.country, 
         COUNT(DISTINCT D.customer_id) AS all_customer_count, 
