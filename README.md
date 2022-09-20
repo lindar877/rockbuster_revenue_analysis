@@ -10,7 +10,7 @@ Rockbuster Stealth's relational database is made up of 17 tables containing info
 
 [Rockbuster Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
-[Rockbuster Data Dictionary](rockbuster_revenue_analysis/LZ Rockbuster Stealth Revenue Analysis.pdf)
+[Rockbuster Data Dictionary](LZ Rockbuster Stealth Revenue Analysis.pdf)
 
 ## Analysis Tools 
 
